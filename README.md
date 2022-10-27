@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Haadiqbal
 - 👀 I’m interested in js
-- 🌱 I’m currently learning Nest.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently Working in React & Node
+- 💞️ I’m looking to collaborate new technologies ...
 
 <!---
-Haadiqbal/Haadiqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have more than 2 years of experience in managing and working with teams . I am eager to learn, I enjoy overcoming challenges.
 --->
